@@ -21,6 +21,7 @@
 * Jessica Lau: DM to set up a meeting
 * Kevin Li: Fridays 9-10 PM
 
+
 # Syllabus
 
 * Week 01 (Week of Aug 25): Pandas 1 [~1hr]  &&  Proper Github Workflow in class. [~1hr]
